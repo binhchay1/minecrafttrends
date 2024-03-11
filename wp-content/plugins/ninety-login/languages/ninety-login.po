@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: ninety-login\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Liviu Costache <tiguan@tiguandesign.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ...\n"
+
+#. Text in echo
+#: ninety-login/templates/logged-in.php:52
+msgid "Dashboard"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/logged-in.php:57
+#: ninety-login/templates/logged-in.php:59
+msgid "Edit Profile"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/register-form.php:17
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/tabs.php:32
+msgid "Log in"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/login-form.php:21
+msgid "Log in &rarr; "
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/logged-in.php:62
+msgid "Log out"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/login-form.php:62
+#: ninety-login/templates/logged-in.php:160
+msgid "Most users ever seen online:"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/tabs.php:12
+msgid "My Activity"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/logged-in.php:99
+msgid "My Recent Comments:"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/login-form.php:17
+#: ninety-login/templates/register-form.php:19
+msgid "Password"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/lost-password-form.php:15
+msgid ""
+"Please enter your username or e-mail address in order to receive a new "
+"password."
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/register-form.php:21
+msgid "Re-enter"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/logged-in.php:72
+msgid "Recently played games:"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/logged-in.php:74
+msgid "Recently viewed articles:"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/tabs.php:40
+msgid "Register"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/register-form.php:26
+msgid "Register &rarr;"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/lost-password-form.php:21
+msgid "Send Password &rarr;"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/login-form.php:16
+#: ninety-login/templates/register-form.php:15
+msgid "Username"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/lost-password-form.php:19
+msgid "Username/Email"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/login-form.php:52
+#: ninety-login/templates/logged-in.php:150
+msgid "Users browsing this page:"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/login-form.php:41
+#: ninety-login/templates/logged-in.php:139
+msgid "Users online:"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/logged-in.php:12
+msgid "Welcome"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/tabs.php:20 ninety-login/templates/tabs.php:48
+msgid "Who\\'s Online"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/tabs.php:6
+msgid "You"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/login-form.php:21
+msgid "You can\\'t login?"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/logged-in.php:100
+msgid "You have not made any comments."
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/logged-in.php:77
+msgid "You have not played any games recently."
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/logged-in.php:77
+msgid "You have not viewed any articles recently."
+msgstr ""
+
+#. Text in function
+#: ninety-login/templates/logged-in.php:100
+msgid "You last logged in on "
+msgstr ""
+
+#. Text in function
+#: ninety-login/templates/logged-in.php:100
+msgid "l \\t\\h\\e jS \\of F, Y \\a\\t h:ia"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/login-form.php:66
+#: ninety-login/templates/logged-in.php:164
+msgid "on"
+msgstr ""
+
+#. Text in echo
+#: ninety-login/templates/lost-password-form.php:19
+#: ninety-login/templates/register-form.php:17
+msgid "you@yourdomain.com"
+msgstr ""
